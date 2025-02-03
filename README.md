@@ -1,5 +1,5 @@
 # Ultimate Showdown: Dog Vs. Shark
-Two-player shooting game for Sprig build using Javascript
+Two-player shooting game for Sprig built using Javascript
 
 https://sprig.hackclub.com/share/R8148Ov9qz5hZzQitPcG
 
