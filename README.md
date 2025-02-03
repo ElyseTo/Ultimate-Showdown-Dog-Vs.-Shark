@@ -10,4 +10,5 @@ Player one (Shark) uses 'w' and 's' to move and shoots with button 'd'
 Player two (Dog) uses 'i' and 'k' to move and shoots with button 'j'
 
 Each missile that hits you gives your other opponent 2 points, however if you dodge it in time, it will only be worth 1 point.
- First to 6 points wins. 
+
+First to 6 points wins. 
